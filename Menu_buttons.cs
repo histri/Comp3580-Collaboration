@@ -5,7 +5,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+//Hello if oyu are reading this something worked help fix my code this was in highschool dont judge too hard!!!
 public class Menu_buttons : MonoBehaviour
 {
     //StartGame - "Start" button functionality, sends the user to level select screen
